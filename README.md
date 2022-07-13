@@ -1,5 +1,5 @@
 # Testing Markdown
-## Smaller heading text
+## Sleeping dogs
 
 **Picture of HQ**
 
