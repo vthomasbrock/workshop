@@ -1,3 +1,3 @@
 #HQ#
 
-[HQ](HQ.jpg)
+![HQ](HQ.jpg)
