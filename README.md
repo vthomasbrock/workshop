@@ -1,3 +1,12 @@
-# workshop
-Repository for workshop
-Adding some additional readme text
+# Testing Markdown
+## Smaller heading text
+
+**Picture of HQ**
+
+*Black and White*
+
+![HQ](HQ.jpg)
+
+---
+
+So cute! 😹
